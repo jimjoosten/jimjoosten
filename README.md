@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on multiple projects for school/work and gaming projects/mods for the fun!<br>🌱 I’m currently learning C, C#, UNITY, KOTLIN, JAVASCRIPT, PHP, HTML/CSS/BOOTSTRAP, SQF, DATABASES AND MORE!<br>💬 Ask me for help if you can't figure something out maybe I can help you!
 
+## 💰 You can help me by Donating so i can get a coffee :)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jimjoosten) 
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jim.joosten.52/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jimm.0316) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jim-joosten) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19929256) 
@@ -23,9 +26,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jimjoosten&icon=1&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jimjoosten) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
