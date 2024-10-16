@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on multiple projects for school/work and gaming projects/mods for the fun!<br>🌱 I’m currently learning C, C#, UNITY, KOTLIN, JAVASCRIPT, PHP, HTML/CSS/BOOTSTRAP, SQF, DATABASES AND MORE!<br>💬 Ask me for help if you can't figure something out maybe I can help you!
+💬 Ask me for help if you can't figure something out maybe I can help you!
 
 ## 💰 You can help me by Donating so i can get a coffee :)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jimjoosten) 
